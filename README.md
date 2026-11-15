@@ -1,0 +1,1 @@
+> 📦 **Release 下载提示**：请前往对应的 GitLab 仓库查看或下载 Release（GitHub 端暂不重复上传）👉 [https://gitlab.com/xusu616/FPGA_IIC_OLED_WATCH/-/releases](https://gitlab.com/xusu616/FPGA_IIC_OLED_WATCH/-/releases) （[GitLab 仓库主页](https://gitlab.com/xusu616/FPGA_IIC_OLED_WATCH)）
